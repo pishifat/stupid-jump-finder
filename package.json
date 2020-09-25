@@ -1,0 +1,9 @@
+{
+    "name": "stupid-jump-finder",
+    "version": "1.0.0",
+    "description": "find stupid jump",
+    "main": "stupid-jump-finder.js",
+    "author": "pishifat ",
+    "license": "ISC"
+}
+  
